@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itsukitsune.github.io</id>
     <title>itsukitsune</title>
-    <updated>2022-03-26T13:39:23.233Z</updated>
+    <updated>2022-03-26T13:42:22.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itsukitsune.github.io"/>
     <link rel="self" href="https://itsukitsune.github.io/atom.xml"/>
     <logo>https://itsukitsune.github.io/images/avatar.png</logo>
     <icon>https://itsukitsune.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, itsukitsune</rights>
+    <entry>
+        <title type="html"><![CDATA[itsukitsune]]></title>
+        <id>https://itsukitsune.github.io/post/itsukitsune/</id>
+        <link href="https://itsukitsune.github.io/post/itsukitsune/">
+        </link>
+        <updated>2022-03-26T13:42:07.000Z</updated>
+        <content type="html"><![CDATA[<p>itsukitsune</p>
+]]></content>
+    </entry>
 </feed>
