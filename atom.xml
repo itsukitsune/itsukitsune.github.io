@@ -2,13 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itsukitsune.github.io</id>
     <title>itsukitsune</title>
-    <updated>2022-04-12T16:51:37.744Z</updated>
+    <updated>2022-04-13T13:32:33.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itsukitsune.github.io"/>
     <link rel="self" href="https://itsukitsune.github.io/atom.xml"/>
     <logo>https://itsukitsune.github.io/images/avatar.png</logo>
     <icon>https://itsukitsune.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, itsukitsune</rights>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://itsukitsune.github.io/post/3/</id>
+        <link href="https://itsukitsune.github.io/post/3/">
+        </link>
+        <updated>2022-04-13T13:27:39.000Z</updated>
+        <content type="html"><![CDATA[<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="9" data-source-line-display="true">
+  <font color="#002fa7" size="4">
+    <strong class="markdown_strong_asterisk">
+      <ruby>狐狸
+        <rp>(</rp>
+        <rt>Hú Li</rt>
+        <rp>)</rp>
+      </ruby>
+    </strong>
+  </font>
+</p>
+<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="11" data-source-line-display="true">生日快樂，八歲啦我最愛的崽崽。</p>
+<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="13" data-source-line-display="true">明明有滿腔的話語想對你說，但到了真下筆的時候卻又什麼都說不出了。</p>
+<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="15" data-source-line-display="true">今天下了一整天的雨，到現在也還沒有停。</p>
+<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="17" data-source-line-display="true">天也知道我在想念你吧，又或者說，是你回來看我了。</p>
+<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="19" data-source-line-display="true">我永遠愛你。</p>
+<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="21" data-source-line-display="true">永遠。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://itsukitsune.github.io/post/2/</id>
