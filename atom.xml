@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itsukitsune.github.io</id>
     <title>itsukitsune</title>
-    <updated>2022-04-26T05:44:44.569Z</updated>
+    <updated>2022-04-26T05:46:35.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itsukitsune.github.io"/>
     <link rel="self" href="https://itsukitsune.github.io/atom.xml"/>
@@ -57,7 +57,11 @@
   <br> 東西少，處理起來方便，也沒有什麼好值得回憶的物品。
   <br> 光著身子來，又光著身子去。
 </p>
-<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="27" data-source-line-display="true">早晚會死的，一定會死的。</p>
+<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="27" data-source-line-display="true">
+  <font color="#FF0000" size="4">
+    <strong class="markdown_strong_asterisk">早晚會死的，一定會死的。</strong>
+  </font>
+</p>
 <hr class="footnotes-sep">
 <div class="footnotes">
   <ol class="footnotes-list">
