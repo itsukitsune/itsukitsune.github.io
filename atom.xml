@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itsukitsune.github.io</id>
     <title>itsukitsune</title>
-    <updated>2022-04-29T10:20:06.110Z</updated>
+    <updated>2022-04-29T10:59:42.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itsukitsune.github.io"/>
     <link rel="self" href="https://itsukitsune.github.io/atom.xml"/>
@@ -316,15 +316,21 @@
         <link href="https://itsukitsune.github.io/post/farekell/">
         </link>
         <updated>2013-10-07T06:37:13.000Z</updated>
-        <content type="html"><![CDATA[<img src=file:///Users/lucky/Desktop/itsukitsune/post-images/1651224007558.jpg width=70% />
+        <content type="html"><![CDATA[<center>
+         <img src = "file:///Users/lucky/Desktop/itsukitsune/post-images/1651229184004.jpg"
+         width = "65%">
+</center>
 <hr>
-<img src=file:///Users/lucky/Desktop/itsukitsune/post-images/1651224296748.jpg width=70% />
-<img src=file:///Users/lucky/Desktop/itsukitsune/post-images/1651225133033.jpg width=60% />
-<img src=file:///Users/lucky/Desktop/itsukitsune/post-images/1651225161069.jpg width=60% />
-<img src=file:///Users/lucky/Desktop/itsukitsune/post-images/1651225239199.jpg width=60% />
-<img src=file:///Users/lucky/Desktop/itsukitsune/post-images/1651225264789.jpg width=60% />
+<center>
+         <img src = "file:///Users/lucky/Desktop/itsukitsune/post-images/1651229869972.jpg"
+         width = "65%">
+<center>
+         <img src = "file:///Users/lucky/Desktop/itsukitsune/post-images/1651229930182.jpg"
+         width = "65%">
+         <img src = "file:///Users/lucky/Desktop/itsukitsune/post-images/1651229938850.jpg"
+         width = "65%">
+</center>
 <hr>
-<img src=file:///Users/lucky/Desktop/itsukitsune/post-images/1651225435074.jpg width=60% />
 ]]></content>
     </entry>
     <entry>
