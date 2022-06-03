@@ -2,13 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itsukitsune.github.io</id>
     <title>itsukitsune</title>
-    <updated>2022-05-30T22:22:36.691Z</updated>
+    <updated>2022-06-03T22:36:36.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itsukitsune.github.io"/>
     <link rel="self" href="https://itsukitsune.github.io/atom.xml"/>
     <logo>https://itsukitsune.github.io/images/avatar.png</logo>
     <icon>https://itsukitsune.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, itsukitsune</rights>
+    <entry>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://itsukitsune.github.io/post/10/</id>
+        <link href="https://itsukitsune.github.io/post/10/">
+        </link>
+        <updated>2022-06-03T22:24:25.000Z</updated>
+        <content type="html"><![CDATA[<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="9" data-source-line-display="true">
+  <font color="#002fa7" size="4">
+    <strong class="markdown_strong_asterisk">
+      <ruby>“勇敢”
+        <rp>(</rp>
+        <rt>“yǒng gǎn”</rt>
+        <rp>)</rp>
+      </ruby>
+    </strong>
+  </font>
+</p>
+<blockquote>
+<p>Everyone you meet is fighting a battle you know nothing about. Be kind. Always.</p>
+</blockquote>
+<p>我到現在依然把這句話當作自己的目標，可能這是我許多次在被傷害的當下對著朋友說那些人的壞話後也仍然會在事後拋開主觀因素，在客觀上體諒他人的困境或承認別人的好的地方的一個很大的原因。</p>
+<p>我沒有辦法長久討厭誰，當然也因為衝動做過不好的事，但現在的我好像可以活得坦蕩跟自由了一些。有些敏感的部分找到了疏通的方式，有些做不好的地方也不會再鑽牛角尖死磕，情緒管理的部分好像是比之前更好了一些，可以很勇敢地承認自己的缺陷以及有能力的某一部分也算是我的一種成長吧。</p>
+<p>逐步認識到自己真正想要跟需要的，不再去攀比樣貌身材跟能力，把注意力集中在自己身上，只要我今天多學了一點多鍛鍊了一次，哪怕只是二十分鐘，對我而言都是賺的，我都比昨天的自己多了一點收穫。</p>
+<p>攀比是永遠比不完的，世界上總有更好更強大的人。</p>
+<p>我承認以前的錯誤並加以改進，畢竟人是會變的，所有人都是如此。未來會變得更美好的，所以不要讓自己處在內耗的狀態，長時間的消沈解決不了任何問題，一切都會好的。</p>
+<p>反正到最後都會死的，意外來臨之前，想這些破事兒幹嘛呢？</p>
+<p>Screw it！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://itsukitsune.github.io/post/9/</id>
@@ -79,7 +108,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>思考
         <rp>(</rp>
-        <rt>Sī Kǎo </rt>
+        <rt>sī kǎo </rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -105,7 +134,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>“失蹤”
         <rp>(</rp>
-        <rt>Shīzōng </rt>
+        <rt>shīzōng </rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -114,7 +143,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>微信
         <rp>(</rp>
-        <rt>Weīxìn</rt>
+        <rt>weīxìn</rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -123,7 +152,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>報警
         <rp>(</rp>
-        <rt>Bàojǐng </rt>
+        <rt>bàojǐng </rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -165,7 +194,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>壓抑、崩潰、無法言語
         <rp>(</rp>
-        <rt>Yāyì Bēngkuì Wúfǎyányǔ </rt>
+        <rt>yāyì bēngkuì wúfǎyányǔ </rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -255,7 +284,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>狐狸
         <rp>(</rp>
-        <rt>Hú Li</rt>
+        <rt>hú li</rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -291,7 +320,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>自 省
         <rp>(</rp>
-        <rt>Zì Xǐng</rt>
+        <rt>zì xǐng</rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -330,7 +359,7 @@
     <strong class="markdown_strong_asterisk">
       <ruby>蔡憶凡
         <rp>(</rp>
-        <rt>Caì Yì Fán</rt>
+        <rt>caì yì fán</rt>
         <rp>)</rp>
       </ruby>
     </strong>
@@ -368,26 +397,5 @@
     </li>
   </ol>
 </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[itsukitsune]]></title>
-        <id>https://itsukitsune.github.io/post/itsukitsune1/</id>
-        <link href="https://itsukitsune.github.io/post/itsukitsune1/">
-        </link>
-        <updated>2017-11-13T22:13:47.000Z</updated>
-        <content type="html"><![CDATA[<br>
-<h2 id="center-font-color002fa7-老日記們一起成長快樂啦"><center> <font color=#002fa7> <em><strong>老日記們，一起成長快樂啦！</strong></em></h2>
-<br>
-<center>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/NwR8z9bvCpbpTIAXVheyHQ"><font color=#002fa7>202012151215</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/CbYYDm85FoCqSRi0vI_yUA"><font color=#002fa7>202012191130</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/lv52C1tuQMY_AFImABi7KA"><font color=#002fa7>202012231323</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/7X12k6GSwife7Qvg9QrEBw"><font color=#002fa7>202012271830</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/wjKRp2S3pT8QOg4K3KG90w"><font color=#002fa7>202012311321</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/Zl9a3wGZEULAxTkZNTetOA"><font color=#002fa7>202101041730</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/IbCQFy7rDiulDBVIRe2MjQ"><font color=#002fa7>202101202145</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/hfh16iWh6JH22ZzQCfYQUQ"><font color=#002fa7>202105171517</a>]</font></p>
-<p><font color=#002fa7>[<a href="https://mp.weixin.qq.com/s/YBB5Jr4OAsDJtirCjGb7XQ"><font color=#002fa7>202111060000</a>]</font></p>
-]]></content>
     </entry>
 </feed>
